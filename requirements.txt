@@ -25,7 +25,7 @@ docutils==0.15.2
 facebook-sdk==3.1.0
 Fiona==1.8.8
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 futures==3.1.1
 gcloud==0.18.3
 geopandas==0.6.1
